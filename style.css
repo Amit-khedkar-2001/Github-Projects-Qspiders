@@ -42,7 +42,7 @@
 /* navbar ends */
 
 .home{
-    background-image: url(/images/CLIPLY_372109170_FREE_FIREWORKS_1000.gif);
+    background-image: url(./images/CLIPLY_372109170_FREE_FIREWORKS_1000.gif);
     display: flex;
     background-repeat: no-repeat;
     /* background-size: cover;
